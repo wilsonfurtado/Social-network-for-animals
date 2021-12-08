@@ -1,0 +1,17 @@
+.photo_profil {
+    width: 30%;
+}
+
+.card {
+    width: 12rem;
+}
+
+.container_users {
+    width: 47%;
+    height: auto;
+    margin: auto;
+}
+
+.title_user {
+    color: #ffc107 !important
+}

@@ -1,0 +1,58 @@
+[
+    {
+      "id": 0,
+      "name": "Bryan",
+      "type": "Tigre",
+      "bio": "I'm the... !",
+      "profilePictureUrl": "images/tigre.jpg",
+      "friends": ["Richard", "Célia"]
+    },
+    {
+        "id": 1,
+        "name": "Richard",
+        "type": "Girafe",
+        "bio": "I'm the...",
+        "profilePictureUrl": "images/girafe.jpg",
+        "friends": ["Bryan", "Val"]
+    },
+    {
+      "id": 2,
+      "name": "Val",
+      "type": "Perroquet",
+      "bio": "I'm the...",
+      "profilePictureUrl": "images/perroquet.jpg",
+      "friends": ["Bryan", "Lady"]
+    },
+    {
+      "id": 3,
+      "name": "Lady",
+      "type": "Chien",
+      "bio": "I'm a ...",
+      "profilePictureUrl": "images/chien.jpg",
+      "friends": ["Val", "Célia"]
+    },
+    {
+      "id": 4,
+      "name": "Célia",
+      "type": "Poisson",
+      "bio": "I'm the...",
+      "profilePictureUrl": "images/poisson.jpg",
+      "friends": ["Lady", "Max"]
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "type": "Chat",
+      "bio": "I'm a ...",
+      "profilePictureUrl": "images/chat.jpg",
+      "friends": ["Val", "Julie"]
+    },
+    {
+      "id": 6,
+      "name": "Julie",
+      "type": "Crabe",
+      "bio": "I'm the...",
+      "profilePictureUrl": "images/crabe.jpg",
+      "friends": ["Max", "Richard"]
+    }
+]
